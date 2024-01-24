@@ -7,7 +7,8 @@ Term Project of CS-464 Introduction to Machine Learning course, Bilkent Universi
 
 
 
-Data:
+Dataset:
+
 https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset
 
 Key Futures:
