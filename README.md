@@ -1,6 +1,8 @@
 # Vehicle-Color-Recognition
 Vehicle Color Recognition using K-means clustering, kNN and Convolutional Neural Networks
-Term Project of CS-464 Statistical Learning and Data Analytics course, Bilkent University.
+Term Project of CS-464 Introduction to Machine Learning course, Bilkent University.
+
+
 
 
 Data:
